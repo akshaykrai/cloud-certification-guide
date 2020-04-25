@@ -1,10 +1,10 @@
 # Cloud Certification Guide
 
 ## Table of Contents
-- Introduction
-- Why get certified?
-- List of Certifications
-- Compiling short notes
+- [Introduction](https://github.com/akshaykrai/cloud-certification-guide#introduction)
+- [Why get certified?](https://github.com/akshaykrai/cloud-certification-guide#why-get-certified)
+- [List of Certifications](https://github.com/akshaykrai/cloud-certification-guide#list-of-certifications)
+- [Compiling short notes](https://github.com/akshaykrai/cloud-certification-guide#compiling-short-notes)
 
 ## Introduction
 
