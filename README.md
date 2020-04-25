@@ -36,11 +36,11 @@ The following certifications are included as part of this guide with more coming
 
 ### Microsoft Azure
 
-Comming Soon.
+Coming Soon.
 
 ### Google Cloud Platform (GCP)
 
-Comming Soon.
+Coming Soon.
 
 ## Compiling short notes
 
