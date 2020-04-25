@@ -48,6 +48,10 @@ If you wish to download & compile the short notes relevant for the exam of your 
 
 1. Pull the repository into your local system.
 
+```
+git pull https://github.com/akshaykrai/cloud-certification-guide.git
+```
+
 2. Execute the 'create_guide.sh' script with the input parameters as the cloud provider followed by the the certification number.
 
 For example, to compile the short notes of AWS Solutions Architect, use the following command:
