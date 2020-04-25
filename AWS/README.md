@@ -1,3 +1,10 @@
+# Amazon Web Services Certification Guide
+
+## Table of Contents
+
+- Quick Start
+
+# Quick Start
 The AWS Certification guide currently comprises of the following AWS Certifications:
 
 1. AWS Cloud Practioner
