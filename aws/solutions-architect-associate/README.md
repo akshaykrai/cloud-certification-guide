@@ -8,7 +8,7 @@
 
 ## About the exam
 
-The solutions architect exam mainly tests a person's knowledge regarding it's most fundamental offerings like storage (S3, EBS, EFS), compute (EC2), networking (VPC, Route53), security (IAM, KMS), etc. and how these services can be applied in real-world scenarios.
+The solutions architect exam mainly tests a person's knowledge regarding it's most fundamental offerings such as storage, compute, networking, security, etc. and how their services can be leveraged in real-world scenarios.
 
 1. The exam will consist of 65 MCQ questions, both single and multi-choice.
 2. The exam duration is 130 minutes.
@@ -27,17 +27,17 @@ Like for most certifications, the number one strategy to successfully clear this
 
 Coming to the services themselves, the following are ones which would comprise of 85-90%+ of the questions:
 
-- Storage
+- **Storage**
   - S3, EBS, EFS, Storage Gateway
-- Compute
+- **Compute**
   - EC2 & Autoscaling, ELB, Lambda
- - Security
+ - **Security**
    - IAM, KMS, Cognito
- - Databases
+ - **Databases**
    - RDS & Aurora, DynamoDB
- - Monitoring
+ - **Monitoring**
    - CloudWatch, CloudTrail
- - Others
+ - **Others**
    - SQS, CloudFront
    
 It's highly recommended for one to have some hands-on experience with the above services. After all, the goal should be for one to be able to apply their learnings in real world projects. 
