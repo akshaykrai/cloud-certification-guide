@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- About the exam
-- Preparation strategy
-- Recommended Material
+- [About the exam](https://github.com/akshaykrai/cloud-certification-guide/tree/master/aws/solutions-architect-associate#about-the-exam)
+- [Preparation strategy](https://github.com/akshaykrai/cloud-certification-guide/tree/master/aws/solutions-architect-associate#preparation-strategy)
+- [Recommended Material](https://github.com/akshaykrai/cloud-certification-guide/tree/master/aws/solutions-architect-associate#preparation-strategy)
 
 ## About the exam
 
