@@ -28,11 +28,11 @@ The following certifications are included as part of this guide with more coming
 
 ### Amazon Web Services (AWS)
 
-01. [AWS Certified Cloud Practitioner] (aws/aws/solutions-architect-associate/README.md)
-02. AWS Certified Developer – Associate
-03. AWS Certified SysOps Administrator – Associate
-04. AWS Certified Solutions Architect – Associate
-05. AWS Certified Big Data – Specialty (Retired)
+01. [AWS Certified Cloud Practitioner](aws/cloud-practitioner/README.md)
+02. [AWS Certified Developer – Associate](aws/developer-associate/README.md)
+03. [AWS Certified SysOps Administrator – Associate](aws/sysops-adminstrator-associate/README.md)
+04. [AWS Certified Solutions Architect – Associate](aws/solutions-architect-associate/README.md)
+05. [AWS Certified Big Data – Specialty (Retired)](aws/big-data-specialty/README.md)
 
 ### Microsoft Azure
 
