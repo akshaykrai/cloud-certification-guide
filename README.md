@@ -28,7 +28,7 @@ The following certifications are included as part of this guide with more coming
 
 ### Amazon Web Services (AWS)
 
-01. AWS Certified Cloud Practitioner
+01. [AWS Certified Cloud Practitioner] (aws/aws/solutions-architect-associate/README.md)
 02. AWS Certified Developer – Associate
 03. AWS Certified SysOps Administrator – Associate
 04. AWS Certified Solutions Architect – Associate
