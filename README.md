@@ -20,21 +20,27 @@ This guide aims to allow professionals, both new and experienced, to obtain a st
 
 One of the best way to learn about the cloud is to pursue the certifications offered by the major players in public cloud, namely Amazon Web Services, Microsoft Azure and Google Cloud Platform. The best teachers and guides are all ortiented around obtaining these certifications.
 
-Other benefits include applying the learned knowledge to present projects, appeal to recruits for future oppurtunites and boasting rights!
+Other benefits include applying the learned knowledge to present projects, jumping to the next level in your current organization, appealing to recruits for future oppurtunites and of course, boasting rights!
 
 ## List of Certifications
 
+The following certifications are included as part of this guide with more coming soon.
+
 ### Amazon Web Services (AWS)
 
-1. AWS Cloud Practitioner
-2. AWS Solutions Architect Associate
-3. AWS Developer Associate
-4. AWS SysOps Adminstrator Associate
-5. AWS Big Data Speciality (Retired)
+01. AWS Certified Cloud Practitioner
+02. AWS Certified Developer – Associate
+03. AWS Certified SysOps Administrator – Associate
+04. AWS Certified Solutions Architect – Associate
+05. AWS Certified Big Data – Specialty (Retired)
 
 ### Microsoft Azure
 
+Comming Soon.
+
 ### Google Cloud Platform (GCP)
+
+Comming Soon.
 
 ## Compiling short notes
 
