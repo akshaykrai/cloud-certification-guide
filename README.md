@@ -44,6 +44,8 @@ Coming Soon.
 
 ## Compiling short notes
 
+NOTE: Coming soon.
+
 If you wish to download & compile the short notes relevant for the exam of your choice, here's the steps to do the same:
 
 1. Pull the repository into your local system.
