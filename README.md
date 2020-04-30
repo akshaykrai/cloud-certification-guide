@@ -18,9 +18,9 @@ This guide aims to allow professionals, both new and experienced, to obtain a st
 
 ## Why get certified?
 
-One of the best way to learn about the cloud is to pursue the certifications offered by the major players in public cloud, namely Amazon Web Services, Microsoft Azure and Google Cloud Platform. The best teachers and guides are all ortiented around obtaining these certifications.
+One of the best way to learn about the cloud is to pursue the certifications offered by the major players in public cloud, namely Amazon Web Services, Microsoft Azure and Google Cloud Platform. The best teachers and guides are all ortiented around obtaining these certifications!
 
-Other benefits include applying the learned knowledge to present projects, jumping to the next level in your current organization, appealing to recruits for future oppurtunites and of course, boasting rights!
+Other benefits include applying the learned knowledge to present projects, jumping to the next level in your current organization, appealing to recruiters for future oppurtunites and of course, boasting rights!
 
 ## List of Certifications
 
